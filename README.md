@@ -1,4 +1,5 @@
 # Music-Genre-Web
+簡介 : 
 用 Python 寫一個讓使用者辨識曲風的網站，並使用Flask框架架設網頁
 
 ## Model 資料夾 - 訓練的機器學習及深度學習的.ipynb檔
